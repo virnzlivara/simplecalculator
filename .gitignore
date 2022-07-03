@@ -29,7 +29,7 @@ build/
 local.properties
 *.iml
 *.hprof
-android/
+# android/
 build.gradle
 
 # node.js
